@@ -82,10 +82,10 @@ The findings have direct implications for anyone whose job involves coordinating
 
 ## What Is in This Repository
 
-**`Project_1_Notebook.ipynb`**
+**`Pricing-Strategy-Advertising-Paradox.ipynb`**
 The full analysis in ten steps. Log-log regression, elasticity calculation, optimal pricing derivation, price digit decomposition, and out-of-sample validation. Each section answers a specific business question before it shows any code.
 
-**`Project_1_Presentation.pptx`**
+**`The-Advertising-Price-Paradox.pptx`**
 Ten slides translating the statistical findings into strategic recommendations. Built for an account team audience — the emphasis is on what to do with the findings, not how the regression was specified.
 
 **`data/`**
